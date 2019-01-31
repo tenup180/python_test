@@ -7,3 +7,4 @@ for i in tqdm(range(20)):
     print(i)
     
 """git commit の勉強"""
+"""追加の勉強"""
